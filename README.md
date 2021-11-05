@@ -1,5 +1,11 @@
 # :tv: ystats
 
+[![NPM version](https://img.shields.io/npm/v/ystats.svg)](https://www.npmjs.com/package/ystats)
+[![Build Status](https://github.com/sinedied/ystats/workflows/build/badge.svg)](https://github.com/sinedied/ystats/actions)
+![Node version](https://img.shields.io/node/v/ystats.svg)
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 > Simple CLI to quickly get YouTube stats for any video, playlist, channel or all at once.
 
 ## Installation
