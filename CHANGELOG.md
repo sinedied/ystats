@@ -1,3 +1,5 @@
+## [1.0.1](https://github.com/sinedied/ystats/compare/1.0.0...1.0.1) (2021-11-05)
+
 # 1.0.0 (2021-11-05)
 
 
