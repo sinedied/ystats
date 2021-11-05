@@ -20,7 +20,7 @@ Options:
   -t, --token <api_token>       Use specified API token
   -o, --output <file>           Write result to output file
   -a, --append                  Append to output file (requires -o)
-  -f, --format <name>           Output format (json, csv, txt, md)
+  -f, --format <name>           Output format (json, yml, csv, txt, basic)
   -v, --version                 Show version
   --help                        Show help
 ```
