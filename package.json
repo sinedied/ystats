@@ -1,11 +1,11 @@
 {
-  "name": "ytstats",
+  "name": "ystats",
   "version": "0.0.0",
   "description": "Simple CLI to quickly get YouTube stats for any video, playlist or channel",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sinedied/ytstats.git"
+    "url": "https://github.com/sinedied/ystats.git"
   },
   "exports": "./lib/index.js",
   "bin": {
@@ -33,9 +33,9 @@
     "name": "Yohan Lasorsa",
     "url": "https://twitter.com/sinedied"
   },
-  "homepage": "https://github.com/sinedied/ytstats",
+  "homepage": "https://github.com/sinedied/ystats",
   "bugs": {
-    "url": "https://github.com/sinedied/ytstats/issues"
+    "url": "https://github.com/sinedied/ystats/issues"
   },
   "license": "MIT",
   "dependencies": {
@@ -78,7 +78,6 @@
   },
   "files": [
     "bin",
-    "lib",
-    "ytstats.js"
+    "lib"
   ]
 }

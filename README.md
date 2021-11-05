@@ -1,11 +1,11 @@
-# :tv: ytstats
+# :tv: ystats
 
 > Simple CLI to quickly get YouTube stats for any video, playlist, channel or all at once.
 
 ## Installation
 
 ```bash
-npm install -g ytstats
+npm install -g ystats
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ Options:
 
 To use this tool, you need a YouTube Data API key. You can get one by looking at [the instructions here](https://developers.google.com/youtube/v3/getting-started). You can provide it with the `--token` option, setting the `YT_API_TOKEN` environment variable or adding `YT_API_TOKEN=<key>` into a `.env` file in the current directory.
 
-If you don't provide a config file path or URL, the tool will try to load a `ytstats.yml` config file in the current directory.
+If you don't provide a config file path or URL, the tool will try to load a `ystats.yml` config file in the current directory.
 
 Please note that the YouTube data API have [quota limits](https://developers.google.com/youtube/v3/getting-started#quota). If you are getting rate limited, you can try to use a different API token.
 
