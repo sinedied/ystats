@@ -21,6 +21,7 @@ Options:
   -o, --output <file>           Write result to output file
   -a, --append                  Append to output file (requires -o)
   -f, --format <name>           Output format (json, yml, csv, txt, basic)
+  -t, --total                   Add section with total stats
   -v, --version                 Show version
   --help                        Show help
 ```
