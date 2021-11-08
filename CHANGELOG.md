@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/sinedied/ystats/compare/1.0.1...1.0.2) (2021-11-08)
+
+
+### Bug Fixes
+
+* lib exports ([2cce505](https://github.com/sinedied/ystats/commit/2cce5055e28d241fa27367b0181b081fb706d897))
+
 ## [1.0.1](https://github.com/sinedied/ystats/compare/1.0.0...1.0.1) (2021-11-05)
 
 # 1.0.0 (2021-11-05)

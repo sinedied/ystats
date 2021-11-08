@@ -1,6 +1,6 @@
 {
   "name": "ystats",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple CLI to quickly get YouTube stats for any video, playlist or channel",
   "type": "module",
   "repository": {
