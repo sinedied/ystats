@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/sinedied/ystats/compare/1.0.2...1.0.3) (2021-11-12)
+
+
+### Bug Fixes
+
+* error with 50+ videos ([7c679e7](https://github.com/sinedied/ystats/commit/7c679e7df34d1e1c01a62fe1866e9f3dbf09e3db))
+
 ## [1.0.2](https://github.com/sinedied/ystats/compare/1.0.1...1.0.2) (2021-11-08)
 
 
